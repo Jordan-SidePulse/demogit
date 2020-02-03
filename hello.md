@@ -1,1 +1,2 @@
-Là j'ai une autre ligne numéro 1
+J'ajoute du texte à hello pour voir les conflits !
+
